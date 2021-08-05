@@ -1,4 +1,8 @@
+<img align="left" alt="Nato-Gif" height="80" width="80" src="https://user-images.githubusercontent.com/88465590/128288675-51e7cf0c-4ca0-481e-ae04-d8ff1508f5e8.gif">
+
 ## Olá! Eu sou o Renato Gonçalves
+
+<br>
 <div>
   <a href="https://github.com/renatogonlop">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=renatogonlop&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -11,8 +15,8 @@
   <img align="center" alt="Nato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nato-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
 </div>
-  
-  ##
+
+##
 
 <div> 
   <a href="https://instagram.com/renatogonlop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
