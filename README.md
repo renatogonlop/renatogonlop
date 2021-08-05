@@ -1,8 +1,4 @@
 ## Olá! Eu sou o Renato Gonçalves
-- teste
-- teste
-- teste
-
 <div>
   <a href="https://github.com/renatogonlop">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=renatogonlop&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
